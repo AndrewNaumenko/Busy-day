@@ -3,4 +3,5 @@
 
 [SRS](https://github.com/AndrewNaumenko/Busy-day/blob/master/Документы/SRS.md.md)
 
-[Мокапы](https://github.com/AndrewNaumenko/Busy-day/tree/master/Мокапы)  Разработчик Науменко А.А. гр 750503
+[Мокапы](https://github.com/AndrewNaumenko/Busy-day/tree/master/Мокапы)  
+Разработчик Науменко А.А. гр 750503  
