@@ -13,20 +13,20 @@
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграмма%20вариантов%20использования/Диаграмма%20вариантов%20использования.png)  
 
 ### 2. Диаграммы активности <a name="2"></a>
-#### 2.1. Работа с задачами <a name="2.1"></a>
+### 2.1. Работа с задачами <a name="2.1"></a>
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20активности/Работа%20с%20%20задачами.jpg)
 
-#### 2.2. Работа с заметками <a name="2.2"></a>
+### 2.2. Работа с заметками <a name="2.2"></a>
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20активности/Работа%20с%20заметками.jpg)
 
-#### 2.3. Настройки <a name="2.3"></a>
+### 2.3. Настройки <a name="2.3"></a>
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20активности/Настройки.jpg)
 
 ### 3. Диаграммы активности <a name="3"></a>
-#### 3.1. Задачи <a name="3.1"></a>
+### 3.1. Задачи <a name="3.1"></a>
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20последовательности/Задачи.jpg)
 
-#### 3.2. Заметки <a name="3.2"></a>
+### 3.2. Заметки <a name="3.2"></a>
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20последовательности/Заметки.jpg)
 
 
