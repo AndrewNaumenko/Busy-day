@@ -22,11 +22,26 @@
 ### 2.3. Настройки <a name="2.3"></a>
 ![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20активности/Настройки.jpg)
 
-### 3. Диаграммы активности <a name="3"></a>
+### 3. Диаграммы последовательности <a name="3"></a>
 ### 3.1. Задачи <a name="3.1"></a>
-![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20последовательности/Задачи.jpg)
+![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20последовательности/Диаграмма%20последовательности%20задачи.jpg)
 
 ### 3.2. Заметки <a name="3.2"></a>
-![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20последовательности/Заметки.jpg)
+![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20последовательности/Диаграмма%20последовательности%20заметки.jpg)
+
+### 4. Диаграмма классов <a name="3"></a>
+![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграмма%20классов/Диаграмма%20классов.jpg)
+
+### 5. Диаграмма развертывания <a name="3"></a>
+![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграмма%20развертывания/Диаграмма%20развертывания.jpg)
+
+### 6. Диаграммы состояний <a name="3"></a>
+### 6.1. Задачи <a name="3.1"></a>
+![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20состояний/Диаграмма%20состояний%20задач.jpg)
+
+### 6.2. Заметки <a name="3.2"></a>
+![](https://github.com/AndrewNaumenko/Busy-day/blob/master/Диаграммы/Диаграммы%20состояний/Диаграмма%20состояний%20заметок.jpg)
+
+
 
 
