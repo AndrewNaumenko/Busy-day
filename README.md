@@ -1,9 +1,14 @@
 # Busy Day
-**Busy Day** - это мобильное приложение, позволяющее пользователю составлять список задач, добавлять напоминая, создавать заметки. 
+**Busy Day** - СЌС‚Рѕ РјРѕР±РёР»СЊРЅРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ, РїРѕР·РІРѕР»СЏСЋС‰РµРµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЋ СЃРѕСЃС‚Р°РІР»СЏС‚СЊ СЃРїРёСЃРѕРє Р·Р°РґР°С‡, РґРѕР±Р°РІР»СЏС‚СЊ РЅР°РїРѕРјРёРЅР°СЏ, СЃРѕР·РґР°РІР°С‚СЊ Р·Р°РјРµС‚РєРё. 
 
-[SRS](https://github.com/AndrewNaumenko/Busy-day/blob/master/Документы/SRS.md)
+[SRS](https://github.com/AndrewNaumenko/Busy-day/blob/master/Р”РѕРєСѓРјРµРЅС‚С‹/SRS.md)
 
-[Мокапы](https://github.com/AndrewNaumenko/Busy-day/tree/master/Мокапы)
+[РњРѕРєР°РїС‹](https://github.com/AndrewNaumenko/Busy-day/tree/master/РњРѕРєР°РїС‹)
 
-[Диаграммы](https://github.com/AndrewNaumenko/Busy-day/tree/master/Диаграммы)  
-Разработчик Науменко А.А. гр 750503  
+[Р”РёР°РіСЂР°РјРјС‹](https://github.com/AndrewNaumenko/Busy-day/tree/master/Р”РёР°РіСЂР°РјРјС‹)  
+
+РћРЎ - Android.
+РЇР·С‹Рє - Java.
+IDE - IntelliJ IDEA. .
+
+Р Р°Р·СЂР°Р±РѕС‚С‡РёРє РќР°СѓРјРµРЅРєРѕ Рђ.Рђ. РіСЂ 750503  
