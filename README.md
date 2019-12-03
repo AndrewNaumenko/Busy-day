@@ -7,6 +7,8 @@
 
 [Диаграммы](https://github.com/AndrewNaumenko/Busy-day/tree/master/Диаграммы)  
 
+[Test](https://github.com/AndrewNaumenko/Busy-day/tree/master/Test)  
+
 ОС - Android.
 Язык - Java.
 IDE - IntelliJ IDEA. .
