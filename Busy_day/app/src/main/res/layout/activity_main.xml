@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_main" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/MainToolBar"
+        android:layout_width="331dp"
+        android:layout_height="463dp"
+        android:background="#FFFFFF"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="center"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="298dp"
+        android:layout_height="400dp"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="center" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/HeaderToolBar"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:background="?attr/colorPrimary"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/Footer"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="?attr/colorPrimary"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="bottom|center"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    <Button
+        android:id="@+id/butNotes2"
+        android:layout_width="205dp"
+        android:layout_height="60dp"
+        android:text="Задачи"
+        app:layout_anchor="@+id/Footer"
+        app:layout_anchorGravity="end|center" />
+
+    <Button
+        android:id="@+id/butNotes"
+        android:layout_width="197dp"
+        android:layout_height="60dp"
+        android:text="Заметки"
+        app:layout_anchor="@+id/Footer"
+        app:layout_anchorGravity="start|center" />
+
+    <ImageButton
+        android:id="@+id/butAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onButtonClickAdd"
+        app:layout_anchor="@+id/MainToolBar"
+        app:layout_anchorGravity="end|bottom"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
