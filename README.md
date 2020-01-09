@@ -9,8 +9,10 @@
 
 [Test](https://github.com/AndrewNaumenko/Busy-day/tree/master/Test)  
 
+[Busy Day](https://github.com/AndrewNaumenko/Busy-day/tree/master/Busy-day)  
+
 ОС - Android.
 Язык - Java.
-IDE - IntelliJ IDEA. .
+IDE - IntelliJ IDEA. 
 
 Разработчик Науменко А.А. гр 750503  
