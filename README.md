@@ -9,7 +9,7 @@
 
 [Test](https://github.com/AndrewNaumenko/Busy-day/tree/master/Test)  
 
-[Busy Day](https://github.com/AndrewNaumenko/Busy-day/tree/master/Busy-day)  
+[Busy Day](https://github.com/AndrewNaumenko/Busy-day/tree/master/Busy_day)  
 
 ОС - Android.
 Язык - Java.
